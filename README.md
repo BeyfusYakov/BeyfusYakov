@@ -1,9 +1,11 @@
 <h1 align="center">Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Меня зовут Яков.  
 </h1>
 <h3 align="center">Я начинающий разработчик C#/.net</h3>
-<p align="center">Пример текста с выравниваем по центру</p>
+<p align="center">
 
 [![codewars](https://www.codewars.com/users/BeyfusYakov/badges/large)](https://www.codewars.com/users/BeyfusYakov)
+
+</p>
 
 
 

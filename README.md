@@ -2,7 +2,7 @@
 </h1>
 <h3 align="center">Я начинающий разработчик C#/.net</h3>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/BeyfusYakov)
+[![codewars](https://www.codewars.com/users/BeyfusYakov/badges/large)](https://www.codewars.com/users/BeyfusYakov)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeyfusYakov)](https://git.io/streak-stats)
 
 <!--

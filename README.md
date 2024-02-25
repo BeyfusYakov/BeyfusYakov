@@ -2,8 +2,9 @@
 </h1>
 <h3 align="center">Я начинающий разработчик C#/.net</h3>
 
-<br>
-<br>[![codewars](https://www.codewars.com/users/BeyfusYakov/badges/large)](https://www.codewars.com/users/BeyfusYakov)</br>
+
+[![codewars](https://www.codewars.com/users/BeyfusYakov/badges/large)](https://www.codewars.com/users/BeyfusYakov)
+
 
 
 

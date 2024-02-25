@@ -1,9 +1,9 @@
 ### Hi there 👋
 Привет!
 
-<h1 align="center">Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Меня зовут Яков. Я начинающий разработчие C#/.net  
+<h1 align="center">Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Меня зовут Яков.  
 </h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Я начинающий разработчик C#/.net</h3>
 
 <!--
 **BeyfusYakov/BeyfusYakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

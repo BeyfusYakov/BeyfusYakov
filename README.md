@@ -2,8 +2,10 @@
 </h1>
 <h3 align="center">Я начинающий разработчик C#/.net</h3>
 
-[![codewars](https://www.codewars.com/users/BeyfusYakov/badges/large)](https://www.codewars.com/users/BeyfusYakov)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeyfusYakov)](https://git.io/streak-stats)
+<br>
+<br>[![codewars](https://www.codewars.com/users/BeyfusYakov/badges/large)](https://www.codewars.com/users/BeyfusYakov)</br>
+
+
 
 <!--
 **BeyfusYakov/BeyfusYakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
